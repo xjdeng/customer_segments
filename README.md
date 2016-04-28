@@ -1,12 +1,33 @@
 # Creating Customer Segments
 
-Unsupervised Learning Project
+Unsupervised Learning Project (Project 3)
+
+## Motivation
+
+A wholesale distributor has been receiving complaints after it changed from morning deliveries every 5 days to a cheaper evening delivery 3 days a week.  Some customers were unaffected by the change while others were extremely unhappy.  We'll use unsupervised learning techniques like clustering as well as PCA and ICA to reduce the dimensionality of the data in order to investigate what's going on.
+
+## Installation
+
+You'll need Python 2.7 and the following libraries:
+
+- scikit-learn
+- numpy
+- pandas
+- ipython
+- notebook
+- matplotlib
+
+Then run the following to download the respository and run it.
+
+$ git clone https://github.com/xjdeng/customer_segments.git
+
+$ cd customer_segments
+
+$ ipython notebook customer_segments.git
 
 ## Template code
 
 In this directory (`customer_segments/`), run `ipython notebook`, open `customer_segments.ipynb` and follow the instructions.
-
-Note: You need Python 2.7, NumPy, pandas, matplotlib and scikit-learn to work on this notebook.
 
 ## Dataset
 
